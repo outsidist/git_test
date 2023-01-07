@@ -2,3 +2,4 @@ Hello, World!
 I have added the line 'git config --global core.editor "code --wait"' my git.
 It seems to have worked now.
 Now to try with -m instead.
+I do not know if it has worked.
